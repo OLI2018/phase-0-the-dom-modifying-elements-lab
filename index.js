@@ -1,4 +1,5 @@
 // Write your code here!
+
 const mainElement = document.getElementById("main");
 mainElement.remove(); 
 
